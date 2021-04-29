@@ -1,0 +1,7 @@
+Sample	source_name	organism	cell line	cell type	treatment	time point
+SARS004_mock_3	Mock treated NHBE cells	Homo sapiens	NHBE	primary human bronchial epithelial cells	Mock treatment	24hrs after treatment
+SARS004_mock_2	Mock treated NHBE cells	Homo sapiens	NHBE	primary human bronchial epithelial cells	Mock treatment	24hrs after treatment
+SARS004_mock_1	Mock treated NHBE cells	Homo sapiens	NHBE	primary human bronchial epithelial cells	Mock treatment	24hrs after treatment
+SARS004_CoV2_3	SARS-CoV-2 infected NHBE cells	Homo sapiens	NHBE	primary human bronchial epithelial cells	SARS-CoV-2 infected (MOI 2)	strain: USA-WA1/2020
+SARS004_CoV2_2	SARS-CoV-2 infected NHBE cells	Homo sapiens	NHBE	primary human bronchial epithelial cells	SARS-CoV-2 infected (MOI 2)	strain: USA-WA1/2020
+SARS004_CoV2_1	SARS-CoV-2 infected NHBE cells	Homo sapiens	NHBE	primary human bronchial epithelial cells	SARS-CoV-2 infected (MOI 2)	strain: USA-WA1/2020
